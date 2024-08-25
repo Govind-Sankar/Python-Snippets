@@ -10,7 +10,7 @@ Python 3.x
 2. Save the code in a file named roman_to_decimal.py.
 3. Run the script using the command:
 ```bash
-python roman_to_decimal.py
+python Roman_To_Decimal.py
 ```
 4. Input the Roman numeral string when prompted.
 
