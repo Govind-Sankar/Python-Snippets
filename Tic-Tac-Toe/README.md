@@ -18,7 +18,7 @@ Python 3.x
 2. Save the code in a file named tic_tac_toe.py.
 3. Run the script using the command:
 ```bash
-python tic_tac_toe.py
+python Tic_Tac_Toe.py
 ```
 
 ## Notes
