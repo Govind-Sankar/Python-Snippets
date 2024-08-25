@@ -26,4 +26,4 @@ python tic_tac_toe.py
 - The board uses a 1-based index, so positions are numbered from 1 to 9.
 
 ## License
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
